@@ -1,2 +1,4 @@
 venv*
 pythonapp.zip
+deploy.ps1
+.env

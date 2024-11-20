@@ -2,4 +2,8 @@ numpy
 pandas
 matplotlib
 streamlit
+python-dotenv
 virtualenv
+pandas
+openai
+azure-monitor-opentelemetry

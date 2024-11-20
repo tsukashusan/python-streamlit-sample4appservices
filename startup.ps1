@@ -1,5 +1,1 @@
-virtualenv -p python3.12 venv312
-
-.\venv312\Scripts\activate.ps1
-
-pip install -r requirements.txt
+python -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
